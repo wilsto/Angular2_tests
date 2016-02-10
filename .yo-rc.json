@@ -1,0 +1,10 @@
+{
+  "generator-ng-fullstack": {
+    "username": "wilsto",
+    "appName": "angular2_tests",
+    "stack": "fullstack",
+    "server": "node",
+    "client": "ng2",
+    "transpilerServer": "typescript"
+  }
+}
