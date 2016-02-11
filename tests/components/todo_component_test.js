@@ -1,5 +1,5 @@
 /// <referece path="../../../typings/tsd.d.ts">
-System.register(['angular2/testing', 'angular2/core', 'angular2/platform/testing/browser', '../../../../../client/dev/todo/components/todo_cmp.js', '../../../../../client/dev/todo/services/todo_service.js'], function(exports_1) {
+System.register(['angular2/testing', 'angular2/core', 'angular2/platform/testing/browser', '../client/dev/todo/todo_cmp.js', '../client/dev/todo/todo_service.js'], function(exports_1) {
     var __extends = (this && this.__extends) || function (d, b) {
         for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
         function __() { this.constructor = d; }

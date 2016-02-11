@@ -5,20 +5,8 @@
   "path": "typings",
   "bundle": "typings/tsd.d.ts",
   "installed": {
-    "express/express.d.ts": {
-      "commit": "c50b111ded0a3a18b87b5abffea3150d6aca94da"
-    },
-    "mongoose/mongoose.d.ts": {
-      "commit": "2a5858c16563634453533009242b8e0b18521370"
-    },
-    "lodash/lodash.d.ts": {
-      "commit": "c50b111ded0a3a18b87b5abffea3150d6aca94da"
-    },
-    "node/node.d.ts": {
-      "commit": "c50b111ded0a3a18b87b5abffea3150d6aca94da"
-    },
     "jasmine/jasmine.d.ts": {
-      "commit": "1a5b2a729d35b1d41e2d15818db013a3644c6ba4"
+      "commit": "44c9273e1e92bc95368f599d1dcda9f560a68956"
     }
   }
 }

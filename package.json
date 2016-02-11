@@ -1,7 +1,7 @@
 {
-  "name": "angular2_tests",
+  "name": "Angular2_tests",
   "version": "0.0.1",
-  "main": "src/angular2_tests.js",
+  "main": "src/Angular2_tests.js",
   "scripts": {
     "build_dev": "node index && gulp client.watch",
     "start": "node index",
@@ -69,14 +69,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wilsto/angular2_tests.git"
+    "url": "https://github.com/wilsto/Angular2_tests.git"
   },
   "author": "wilsto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wilsto/angular2_tests/issues"
+    "url": "https://github.com/wilsto/Angular2_tests/issues"
   },
-  "homepage": "https://github.com/wilsto/angular2_tests",
+  "homepage": "https://github.com/wilsto/Angular2_tests",
   "engines": {
     "node": "5"
   }
