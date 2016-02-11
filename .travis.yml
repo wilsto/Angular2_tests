@@ -15,3 +15,6 @@ script:
   - npm run-script test-on-travis
 
 services: mongodb
+
+notifications:
+  slack: cedowi:jybkZrjs1aHXMpI8kHDnbodW

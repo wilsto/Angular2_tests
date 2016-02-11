@@ -25,8 +25,8 @@ import {
   TEST_BROWSER_APPLICATION_PROVIDERS
 } from 'angular2/platform/testing/browser';
 
-import {TodoCmp} from '../client/dev/todo/todo_cmp.js';
-import {TodoService} from '../client/dev/todo/todo_service.js';
+import {TodoCmp} from   '../../../../../client/dev/todo/components/todo_cmp.js';
+import {TodoService} from '../../../../../client/dev/todo/services/todo_service.js';
 
 class MockTodoService extends TodoService {
   getAll() {
